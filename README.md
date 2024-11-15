@@ -29,8 +29,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=cisconetworkacadmey&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Cisco%20Network%20Academy-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
